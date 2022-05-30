@@ -1,5 +1,4 @@
 .cats__wrap {
-
 }
 
 .cats {
@@ -10,8 +9,8 @@
   padding: 0 62px;
 }
 
-@media screen and (min-width: 768px) {
-  .cats{
+@media screen and (min-width: 893px) {
+  .cats {
     justify-content: space-between;
   }
 }
@@ -21,7 +20,7 @@
   min-height: 64px;
   margin-bottom: 51px;
   padding: 0 62px;
-  background-color: #2196F3;
+  background-color: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.24);
   box-sizing: border-box;
 }
@@ -33,7 +32,6 @@
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-
 }
 
 @media screen and (min-width: 768px) {
@@ -45,7 +43,7 @@
 .cats__button {
   height: 100%;
   padding: 21px;
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -59,13 +57,12 @@
 }
 
 .cats__buttonActive {
-  color: #FFFFFF;
-  background-color: #1E88E5;
-
+  color: #ffffff;
+  background-color: #1e88e5;
 }
 
 .cats__text {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
